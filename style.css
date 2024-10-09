@@ -1,0 +1,33 @@
+.button button:hover{
+    color:black !important;
+}
+.button button{
+    font-weight: 600;
+}
+#hero_section span{
+    font-size: 40px !important;
+}
+#span{
+    font-size: 50px;
+    font-weight: bold;
+    padding: 0px;
+    margin: 0px;
+}
+#back{
+    background-color: aliceblue;
+    margin-left: 275px;
+    border-radius: 20px;
+    object-fit: cover;
+
+}
+#text:hover{
+    color: red !important;
+    
+}
+@media screen and (max-width: 850px) {
+    #back{
+        margin-left: 12PX !important;
+    }  
+}
+
+
